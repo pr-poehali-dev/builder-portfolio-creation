@@ -149,9 +149,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Адрес</h4>
-                    <p className="text-gray-600">
-                      г. Москва, ул. Строительная, д. 15, офис 302
-                    </p>
+                    <p className="text-gray-600">г. Астрахань</p>
                   </div>
                 </div>
 
@@ -163,8 +161,8 @@ const Contact = () => {
                     <h4 className="font-semibold text-gray-900 mb-1">
                       Телефон
                     </h4>
-                    <p className="text-gray-600">+7 (495) 123-45-67</p>
-                    <p className="text-gray-600">+7 (901) 234-56-78</p>
+                    <p className="text-gray-600">+7 (927) 550-93-11</p>
+                    <p className="text-gray-600">+7 (925) 545-17-36</p>
                   </div>
                 </div>
 
@@ -174,8 +172,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
-                    <p className="text-gray-600">info@remontpro.ru</p>
-                    <p className="text-gray-600">order@remontpro.ru</p>
+                    <p className="text-gray-600">olya_rozhkova_2018@mail.ru</p>
+                    <p className="text-gray-600"></p>
                   </div>
                 </div>
 

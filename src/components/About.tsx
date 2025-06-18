@@ -80,11 +80,11 @@ const About = () => {
               <div className="text-gray-600">Завершенных проектов</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">10+</div>
+              <div className="text-4xl font-bold text-blue-600 mb-2">20+</div>
               <div className="text-gray-600">Лет успешной работы</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">98%</div>
+              <div className="text-4xl font-bold text-blue-600 mb-2">99,9%</div>
               <div className="text-gray-600">Довольных клиентов</div>
             </div>
           </div>
