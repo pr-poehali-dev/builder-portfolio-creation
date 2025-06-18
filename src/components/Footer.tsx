@@ -12,7 +12,7 @@ const Footer = () => {
               <span className="text-xl font-bold">РемонтПро</span>
             </div>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              Профессиональная компания по ремонту и отделке помещений. Более 10
+              Профессиональная компания по ремонту и отделке помещений. Более 20
               лет создаем комфортные пространства для жизни и работы.
             </p>
             <div className="flex space-x-4">
