@@ -61,6 +61,14 @@ const Portfolio = () => {
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=500&h=300&fit=crop",
       description: "Современное коворкинг пространство",
     },
+    {
+      id: 7,
+      title: "Планировка квартиры",
+      category: "apartment",
+      image:
+        "https://cdn.poehali.dev/files/df2dd2d7-0f52-481a-a497-53ede3a70857.png",
+      description: "Проект планировки жилого пространства",
+    },
   ];
 
   const filteredProjects =
