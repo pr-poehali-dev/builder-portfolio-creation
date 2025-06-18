@@ -19,7 +19,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <Icon name="Home" size={24} className="text-blue-600 mr-2" />
-            <span className="text-xl font-bold text-gray-900">РемонтПро</span>
+            <span className="text-xl font-bold text-gray-900">HomeРемонт</span>
           </div>
 
           {/* Desktop Navigation */}

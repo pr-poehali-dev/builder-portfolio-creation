@@ -20,10 +20,7 @@ const Hero = () => {
               Качественный ремонт
               <span className="text-orange-400"> вашего дома</span>
             </h1>
-            <p className="text-lg md:text-xl text-blue-100 leading-relaxed">
-              Профессиональный ремонт и отделка помещений с гарантией качества.
-              Более 10 лет опыта и сотни довольных клиентов.
-            </p>
+            <p className="text-lg md:text-xl text-blue-100 leading-relaxed"></p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button
                 onClick={scrollToContact}
@@ -56,7 +53,7 @@ const Hero = () => {
                   </div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-orange-400">10+</div>
+                  <div className="text-3xl font-bold text-orange-400">20+</div>
                   <div className="text-sm text-blue-100">Лет на рынке</div>
                 </div>
                 <div className="text-center">
